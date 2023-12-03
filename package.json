@@ -1,7 +1,7 @@
 {
   "type": "module",
   "scripts": {
-    "create": "bash -c 'mkdir day$1 && touch day$1/input.txt && touch day$1/input.js && touch day$1/script.js' --",
+    "create": "bash -c 'mkdir day$1 && touch day$1/input.txt && touch day$1/input.js && touch day$1/script.js && touch day$1/example.txt' --",
     "watch": "bash -c 'nodemon day$1/script.js' --"
   },
   "devDependencies": {
