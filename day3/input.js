@@ -18,5 +18,6 @@ try {
     console.error('Error reading input', err);
 }
 
-export const day2example = example;
-export const day2input = input;
+// edit day to match folder name
+export const day3example = example;
+export const day3input = input;
